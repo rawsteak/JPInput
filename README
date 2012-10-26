@@ -1,0 +1,12 @@
+* JPInput
+
+Hiragana input using Gesture class
+
+** usage
+
+/bin/JPInput.apk
+
+*** Need to do
+
+Implement case for multiple strokes
+Improve instersection detection
